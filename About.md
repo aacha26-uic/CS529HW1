@@ -11,3 +11,4 @@ Sources and Credits:
 - UIC CS529 course support code and assignment instructions.
 - Inspiration for area-based encoding: "The Visual Display of Quantitative Information" by Edward Tufte.
 - General best practices from "Visualization Analysis and Design" by Tamara Munzner.
+<img width="1718" height="942" alt="image" src="https://github.com/user-attachments/assets/7c634168-97f1-488e-8202-cc86bd4e0216" />
