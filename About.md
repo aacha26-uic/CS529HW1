@@ -5,7 +5,7 @@ To ethically update the visual encoding for this project, I focused on making th
 
 This visualization is "white-hat" because it prioritizes clarity, fairness, and accessibility. All encodings are chosen to avoid misleading the viewer: color bins are based on quantiles for perceptual balance, legends are honest and unambiguous, and all data is normalized to prevent population bias. The design avoids sensationalism and instead empowers users to make informed, ethical interpretations. 
 
-  Link to the explanation video : [https://video-link-generator.replit.app/v/d936fsl7om9x0lsuzwna5](https://video-link-generator.replit.app/v/d936fsl7om9x0lsuzwna5)
+  Link to the explanation video : [https://go.screenpal.com/watch/cTQ3QqnDjDP](https://go.screenpal.com/watch/cTQ3QqnDjDP)
 
   Sources and Credits:
 - ColorBrewer2 (https://colorbrewer2.org/) for color palette selection and perceptual guidance.
